@@ -8,7 +8,7 @@ public class Lingkaran {
         this.radius = radius;
     }
 
-    public double luas() {
+    public double luas() { 
         return Math.PI * radius * radius;
     }
 
